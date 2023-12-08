@@ -37090,8 +37090,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 151px;
+  }
+
   .u-footer .u-social-icons-1 {
-    margin-top: 136px;
+    margin-top: 85px;
   }
 
   .u-footer .u-text-1 {
